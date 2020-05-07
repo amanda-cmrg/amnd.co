@@ -1,0 +1,1 @@
+dns1.falcaosuporte.com.br, dns4.falcaosuporte.com.br, dns2.falcaosuporte.com.br, dns3.falcaosuporte.com.br. 
